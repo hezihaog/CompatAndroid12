@@ -1,0 +1,3 @@
+rootProject.name = "CompatAndroid12"
+include ':app'
+include ':multitype'
